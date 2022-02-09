@@ -5,7 +5,6 @@
   "license": "MIT",
   "scripts": {
     "lint:fix": "eslint --fix src --ext ts,tsx",
-    "typeorm": "ts-node node_modules/typeorm/cli.js",
     "test": "jest"
   },
   "devDependencies": {
